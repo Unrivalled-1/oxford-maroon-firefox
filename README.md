@@ -1,6 +1,6 @@
 # Oxford Maroon
 
-A reading-room theme for Firefox, written as a `userChrome.css` stylesheet. Oxblood leather, warm bone text, a maroon ribbon under the open tab, and a lamp glow in the corner. It is quiet: the only motion is a thin sheen across a tab while a page loads.
+A reading-room theme for Firefox, written as a `userChrome.css` stylesheet. Oxblood leather, warm bone text, a maroon ribbon under the open tab, and a lamp glow in the corner. It is static and quiet, with no ambient animation.
 
 ![Oxford Maroon in Firefox](docs/screenshot.png)
 
