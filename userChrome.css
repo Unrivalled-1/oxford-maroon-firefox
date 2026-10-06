@@ -1,0 +1,3 @@
+/* Put this file in <profile>/chrome/userChrome.css, with the theme in <profile>/chrome/themes/oxford.css.
+   Fully quit and reopen Firefox after any change. */
+@import url("themes/oxford.css");
